@@ -1,0 +1,148 @@
+.nav-1{
+    background-color: #316DC3 !important
+}
+.icons{
+    color: white !important;
+}
+.logo{
+    height: 80px;
+
+}
+.navcon{
+    margin: 0 14px 0 4px !important;
+}
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+ background:none;
+}
+
+@media only screen and (min-width: 1000px) {
+    li a.active{
+        background-color: #316DC3 !important;
+        border-radius: 20% !important;
+    }
+    li a:hover{
+        background-color: #316DC3;
+        border-radius: 20% !important;
+    }
+  }
+
+
+
+ul.a li{
+    display: inline !important; 
+    padding: 10px;
+    color: white;
+
+}  
+
+ul.a a{
+    color: white;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+.news{
+    background-color:#316DC3 ;
+    color: white;
+    padding: 5px;
+}
+.jumbotron{
+    /* padding: 70px 30px 70px 30px; */
+    margin: 0px auto;
+    background: #316DC3;
+    color: floralwhite;
+}
+
+.holder { 
+    background-color:white;
+    width:300px;
+    height:250px;
+    overflow:hidden;
+    padding:10px;
+    font-family:Helvetica;
+  }
+  .holder .mask {
+    position: relative;
+    left: 0px;
+    top: 10px;
+    width:300px;
+    height:240px;
+    overflow: hidden;
+  }
+  .holder ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+    position: relative;
+  }
+  .holder ul li {
+    padding:10px 0px;
+  }
+  .holder ul li a {
+    color:darkred;
+    text-decoration:none;
+  }
+
+  .footer{
+      
+    background-color: #25272e;
+}
+.address{
+    font-size: 80%;
+    margin: 0px;
+    /* color: #0f0f0f; */
+    
+}
+
+ul#social li {
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+
+
+
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.nav-link {
+    color: black !important;
+    border-radius: 20px;
+}
+
+.nav-link:hover {
+    background-color: #316DC3;
+    color: white !important;
+    transition: .5s ease-in;
+    text-align: center;
+}
+
+.dropdown-item:hover {
+    background-color: #316DC3;
+    color: white !important;
+    transition: .5s ease-in;
+    text-align: center;
+}
+.title-icon {
+    margin-bottom: 50px !important; 
+
+}
